@@ -17,6 +17,3 @@ LoadAdminControllers(adminRouter);
 export const routes = router;
 export const publicRoutes = publicRouter;
 export const adminRoutes = adminRouter;
-
-
-

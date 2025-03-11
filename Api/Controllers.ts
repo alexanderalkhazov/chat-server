@@ -1,7 +1,7 @@
-import { FirstController } from "./First/FirstController";
+import { SettingsController } from "./Settings/SettingsController";
 
 export function LoadPublicControllers(router: any) {
-  FirstController(router);
+  SettingsController(router);
 }
 
 export function LoadControllers(router: any) {}
