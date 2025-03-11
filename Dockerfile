@@ -17,6 +17,6 @@ RUN npm run build
 #RUN echo "built"
 #RUN pwd && ls
 
-EXPOSE 8080
+EXPOSE 3000
 
 CMD ["npm", "start"]

@@ -26,6 +26,7 @@
     "applicationinsights": "^1.8.9",
     "axios": "^0.21.1",
     "copyfiles": "^2.4.1",
+    "couchbase": "^4.4.5",
     "crypto": "^1.0.1",
     "custom-env": "^2.0.1",
     "discord-webhook-node": "^1.1.8",

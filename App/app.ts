@@ -42,5 +42,5 @@ app.use(adminRoutes.routes());
 app.use(helmet());
 app.use(i18n.init);
 
-app.listen(process.env.PORT || 8081);
-console.log(`Server running on port ${process.env.PORT || 8081}`);
+app.listen(process.env.PORT || 3000);
+console.log(`Server running on port ${process.env.PORT || 3000}`);
